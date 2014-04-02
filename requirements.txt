@@ -1,0 +1,6 @@
+PyYAML==3.11
+beautifulsoup4==4.3.2
+contextdecorator==0.10.0
+six==1.6.1
+vcrpy==0.7.0
+wsgiref==0.1.2
